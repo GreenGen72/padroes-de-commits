@@ -172,6 +172,11 @@ O commit semântico possui os elementos estruturais abaixo (tipos), que informam
       <td>🔥 <code>:fire:</code></td>
       <td></td>
     </tr>
+       <tr>
+      <td>Removendo código não utilizado / comentários</td>
+      <td>🧹 <code>:broom:</code></td>
+      <td></td>
+    </tr>
     <tr>
       <td>Removendo uma dependência</td>
       <td>➖ <code>:heavy_minus_sign:</code></td>
