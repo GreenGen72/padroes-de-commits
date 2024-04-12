@@ -31,7 +31,18 @@ O commit semântico possui os elementos estruturais abaixo (tipos), que informam
 - `ci` - Commits do tipo ci indicam mudanças relacionadas a **integração contínua** (_continuous integration_).
 
 - `raw` - Commits to tipo raw indicam mudanças relacionadas a arquivos de configurações, dados, features, parametros.
+
+## 🌱 Nomes de branch's
+
+- `bugfix/your-branch-name` - Como o próprio nome já diz, é um BUG e precisa ser corrigido de forma imediata, quanto antes.
+   
+- `feature/your-branch-name` - Uma nova feature que será adicionada ao projeto, componente e afins.
   
+- `hotfix/your-branch-name` - Ele é bem similar ao bugfix/, porém, ele não é um BUG, mas sim uma correção, seja ela de cor, textos, alterações não tão urgentes, que não signifiquem BUG's.
+  
+- `improvement/your-branch-name` - Em si é uma melhoria para um já existente, seja de performance, de escrita, de layout, etc.
+
+
 ## Recomendações 🎉
 
 - Adicione um tipo consistente com o título do conteúdo.
